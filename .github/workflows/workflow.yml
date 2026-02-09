@@ -9,5 +9,4 @@ on:
 jobs:
     build:
         runs-on: ubuntu-latest
-        container: 
-            runs-on: python:3.9-slim
+        container: python:3.9-slim
